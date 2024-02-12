@@ -1,0 +1,17 @@
+
+h1{
+    color: #509ccc;
+    text-align: center;
+font-family: 'Source Code Pro', monospace;
+font-weight: bold;
+}
+h2{
+    color: #9a7dde;
+font-family: 'Source Code Pro', monospace;
+}
+h3{
+    font-family: 'Source Code Pro', monospace; 
+}
+html{ 
+    background-color:#f5f5ea ;
+}
